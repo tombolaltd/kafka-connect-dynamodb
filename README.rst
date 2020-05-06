@@ -1,7 +1,8 @@
 **kafka-connect-dynamodb** is a `Kafka Connector <http://kafka.apache.org/documentation.html#connect>`_ for loading data to and from Amazon DynamoDB.
 
 It is implemented using the AWS Java SDK for DynamoDB.
-For authentication, the `DefaultAWSCredentialsProviderChain <http://docs.aws.amazon.com/java-sdk/latest/developer-guide/credentials.html#id6>`_ is used.
+For authentication, the `DefaultAWSCredentialsProviderChain
+ <http://docs.aws.amazon.com/java-sdk/latest/developer-guide/credentials.html#id6>`_ is used.
 
 Building
 ========
